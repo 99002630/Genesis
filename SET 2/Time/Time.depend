@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600505218 source:d:\training\set 2\time\time.cc
+	<iostream>
+	"time.h"
+
+1600501762 d:\training\set 2\time\time.h
+
+1600501827 source:d:\training\set 2\time\time_test.cc
+	<gtest/gtest.h>
+	"time.h"
+

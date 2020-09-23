@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1600402933 source:d:\training\set1\main.cpp
+	<iostream>
+	"account.h"
+	<gtest/gtest.h>
+
+1600402379 d:\training\set1\account.h
+
+1600403454 d:\training\set1\box.h
+	<iostream>
+
+1600400639 d:\training\set1\customer.h
+
+1600410806 d:\training\set1\image.h
+	<iostream>
+
+1600403389 source:d:\training\set1\box_test.cc
+	"box.h"
+	<gtest/gtest.h>
+
+1600402933 source:d:\training\set1\account_test.cpp
+	<iostream>
+	"account.h"
+	<gtest/gtest.h>
+
+1600408280 source:d:\training\set1\point_test.cc
+
+1600410907 source:d:\training\set1\image_test.cc
+	"image.h"
+	<gtest/gtest.h>
+
+1600410907 source:d:\training\set 1\image\image_test.cc
+	"image.h"
+	<gtest/gtest.h>
+
+1600488811 d:\training\set 1\image\image.h
+	<iostream>
+
+1600488827 source:d:\training\set 1\image\image.cc
+	<iostream>
+	"image.h"
+

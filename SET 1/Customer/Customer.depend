@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1600490960 source:d:\training\set 1\customer\cutomer.cc
+	<iostream>
+	<string>
+	"customer.h"
+
+1600490982 d:\training\set 1\customer\customer.h
+	<string>
+

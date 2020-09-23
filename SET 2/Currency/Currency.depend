@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600494870 source:d:\training\set 2\currency\currency.cc
+	<iostream>
+	"currency.h"
+
+1600494907 d:\training\set 2\currency\currency.h
+

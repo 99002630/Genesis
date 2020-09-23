@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600403389 source:d:\training\set 1\box\box_test.cc
+	"box.h"
+	<gtest/gtest.h>
+
+1600487806 d:\training\set 1\box\box.h
+

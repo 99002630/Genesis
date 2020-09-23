@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600433678 source:d:\training\colour\colour_test.cc
+	"colour.h"
+	<gtest/gtest.h>
+
+1600433714 d:\training\colour\colour.h
+	<iostream>
+
