@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600672992 source:d:\training\set 4\complex\complex.cc
+	"complex.h"
+	<iostream>
+
+1600673059 d:\training\set 4\complex\complex.h
+

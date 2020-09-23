@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1600682278 source:d:\training\set 4\stack\stack.cc
+	<iostream>
+	"stack.h"
+
+1600681602 d:\training\set 4\stack\stack.h
+
+1600682497 source:d:\training\set 4\stack\stack_test.cc
+	"stack.h"
+	"stack.cc"
+	<gtest/gtest.h>
+
+1600682278 d:\training\set 4\stack\stack.cc
+	<iostream>
+	"stack.h"
+

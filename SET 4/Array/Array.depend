@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600685957 source:d:\training\set 4\array\array.cc
+	<iostream>
+	"array.h"
+
+1600685180 d:\training\set 4\array\array.h
+
