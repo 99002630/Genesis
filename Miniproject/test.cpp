@@ -5,6 +5,7 @@
 #include <sstream>
 #include <vector>
 #include "operation.h"
+#include "gtest/gtest.h"
 
 
 namespace
@@ -68,7 +69,7 @@ void TearDown() {}
 TEST_F(hosp_test,Addhospital)
 {
       // dummy.remove_patient(1);
-    EXPECT_EQ(23,dummy.Number_of_hospitals());
+    EXPECT_EQ(24,dummy.Number_of_hospitals());
 }
 
 
@@ -76,8 +77,9 @@ TEST_F(hosp_test,Addhospital)
 
 TEST_F(hosp_test,removehospital)
 {
-    dummy.remove_patient("10032");
-    EXPECT_EQ(22,dummy.Number_of_hospitals());
+    dummy.remove_hospital("10032");
+    EXPECT_EQ(23,dummy.Number_of_hospitals());
+}
 }
 /*
 TEST_F(HeartFailureTest,diedwithalldiseases)
