@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1601813938 source:c:\users\megha\onedrive\documents\assignments\poorni\derived.cpp
+	"derived.h"
+
+1601814108 source:c:\users\megha\onedrive\documents\assignments\poorni\operation.cpp
+	"operation.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1601811070 source:c:\users\megha\onedrive\documents\assignments\poorni\main.cpp
+	<iostream>
+	"base.h"
+
+1601811096 c:\users\megha\onedrive\documents\assignments\poorni\base.h
+	<string>
+	<list>
+	<vector>
+
+1601811125 source:c:\users\megha\onedrive\documents\assignments\poorni\base.cpp
+	"base.h"
+	<list>
+	<iterator>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1601812972 c:\users\megha\onedrive\documents\assignments\poorni\derived.h
+	"base.h"
+
+1601813948 c:\users\megha\onedrive\documents\assignments\poorni\operation.h
+	"derived.h"
+	<list>
+	<iterator>
+
+1601814296 source:c:\users\megha\onedrive\documents\assignments\poorni\test.cpp
+	"gtest/gtest.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"operation.h"
+

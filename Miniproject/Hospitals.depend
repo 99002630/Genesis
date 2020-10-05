@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1601831045 source:c:\users\temp\documents\hospitals_minipro\hospitals\base.cpp
+	"base.h"
+	<list>
+	<iterator>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+
+1601833421 c:\users\temp\documents\hospitals_minipro\hospitals\base.h
+	<string>
+	<list>
+	<vector>
+
+1601831045 source:c:\users\temp\documents\hospitals_minipro\hospitals\derived.cpp
+	"derived.h"
+
+1601831102 c:\users\temp\documents\hospitals_minipro\hospitals\derived.h
+	"base.h"
+
+1601834845 source:c:\users\temp\documents\hospitals_minipro\hospitals\operation.cpp
+	"operation.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1601834682 c:\users\temp\documents\hospitals_minipro\hospitals\operation.h
+	"derived.h"
+	<list>
+	<iterator>
+
+1601834369 source:c:\users\temp\documents\hospitals_minipro\hospitals\test.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"operation.h"
+
